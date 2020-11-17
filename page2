@@ -1,12 +1,15 @@
 <! DOCTYPE html>
 <html>
+<head>
+<title>Christmas Season is Here!</title>
+</head>
 <body>
 
-<h1>Christmas Season</h1>
-<h2>Christmas Season is now</h2>
+<h1>November 1st is the beginning of christmas season</h1>
 <p>Christmas season explanation found below:</p>
 <img src="christmasseason.jpg" alt="file:///Users/jurnibayoc/Downloads/christmasseason.jpg">
 
+<p>this is a helpful link:</p>
 <a href="https://www.nytimes.com/2019/11/20/opinion/christmas-mariah-carey.html">
 </body>
 </html>
